@@ -1,0 +1,1 @@
+This is a collection of Katas from around the web.  Prompts are in the text files.
