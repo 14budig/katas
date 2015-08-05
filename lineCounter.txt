@@ -1,0 +1,2 @@
+Full prompt at http://codekata.com/kata/kata13-counting-code-lines/
+Note that while my solution is in html and javascript, the program works on javascript and java files both.
